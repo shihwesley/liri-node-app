@@ -16,7 +16,7 @@
      * Venue location
 
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
-     ![](https://github.com/shihwesley/Bamazon/blob/master/Challenge1.png)
+     ![](https://github.com/shihwesley/liri-node-app/blob/master/Screen%20Shot%202019-08-13%20at%203.54.58%20PM.png)
 
 ### Challenge #2: `node liri.js spotify-this-song '<song name here>'`
    * This will show the following information about the song in your terminal/bash window
@@ -27,9 +27,8 @@
 
      * A preview link of the song from Spotify
 
-     * The album that the song is from![](https://github.com/shihwesley/Bamazon/blob/master/Challenge2_1.png)
-You can continuously add new products to Bamazon. 
-![](https://github.com/shihwesley/Bamazon/blob/master/Challenge2_2.png)
+     * The album that the song is from
+![](https://github.com/shihwesley/liri-node-app/blob/master/Screen%20Shot%202019-08-13%20at%204.00.31%20PM.png)
 
 ### Challenge #3: `node liri.js movie-this '<movie name here>'`
 * This will output the following information to your terminal/bash window:
@@ -45,7 +44,7 @@ You can continuously add new products to Bamazon.
        * Actors in the movie.
      ```
 
-![](https://github.com/shihwesley/Bamazon/blob/master/Challenge3.png)
+![](https://github.com/shihwesley/liri-node-app/blob/master/Screen%20Shot%202019-08-13%20at%204.01.17%20PM.png)
 
 ### Challenge #3: `node liri.js do-what-it-says`
 * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
@@ -54,7 +53,7 @@ You can continuously add new products to Bamazon.
 
      * Edit the text in random.txt to test out the feature for movie-this and concert-this.
      
-![](https://github.com/shihwesley/Bamazon/blob/master/Challenge3.png)
+![](https://github.com/shihwesley/liri-node-app/blob/master/Screen%20Shot%202019-08-13%20at%204.02.06%20PM.png)
 
 
 
